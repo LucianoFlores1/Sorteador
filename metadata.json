@@ -1,0 +1,5 @@
+{
+  "name": "SorteoGenius",
+  "description": "Una aplicación inteligente para realizar sorteos. Analiza listas de participantes y selecciona ganadores de forma aleatoria y justa.",
+  "requestFramePermissions": []
+}
