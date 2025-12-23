@@ -12,11 +12,11 @@ export const Header: React.FC = () => {
           </div>
           <div>
             <h1 className="text-3xl font-extrabold tracking-tight text-white drop-shadow-md">
-              Sorteo<span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-cyan-400">Genius</span>
+              Ez<span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-cyan-400">Sorteos</span>
             </h1>
           </div>
         </div>
-        
+
         <div className="hidden md:flex items-center gap-2 px-4 py-2 bg-red-500/10 border border-red-500/20 rounded-full animate-pulse">
           <div className="w-2 h-2 bg-red-500 rounded-full"></div>
           <span className="text-red-400 font-bold text-xs tracking-widest uppercase">Live Mode</span>
